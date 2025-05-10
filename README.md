@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm António Alves</h1>
 <h3 align="center">A passionate for Data Analytics living in Portugal</h3>
 
-- 🔭 I’m currently working on **Natixis CIB**
+- 🔭 I’m currently working on **BNP Paribas**
 
 - 🌱 I’m currently learning **SQL and Python**
 
